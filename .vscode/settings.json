@@ -1,0 +1,7 @@
+{
+  "python.testing.pytestArgs": [
+    "Section_01_debug_python"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
